@@ -2,7 +2,7 @@
 
 A simple project to practice the GitHub flow.
 
-## Uasge
+## Usage
 
 ```bash
 python3 hello.py
